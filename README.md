@@ -3,11 +3,11 @@ WORKSHOP_TITLE
 
 ### posit::conf(2026)
 
-by INSTRUCTOR_NAME
+by Jeroen Janssens and Richard Iannone
 
 -----
 
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcomed to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
+INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your workshop below. Then, add workshop content in the materials folder and link to each session’s materials from the schedule below. You are welcome to add more rows to the schedule. We just ask that you take breaks at the specified times. Once you are done adding information, you can remove these instructions from the README.
 
 Alternatively, you can completely redo the organization of this repo  as a Quarto website or some other format you prefer to host your workshop materials. The only requirement is that your workshop materials are hosted here.
 
@@ -22,11 +22,23 @@ Alternatively, you can completely redo the organization of this repo  as a Quart
 
 ## Description
 
-ADD WORKSHOP DESCRIPTION.
+
+As the data science landscape evolves, many practitioners are looking to expand their toolkit to include Python. Led by Jeroen Janssens, author of the book Python Polars: The Definitive Guide, and Rich Iannone, creator of the Great Tables package, this workshop will provide a practical, hands-on introduction to an end-to-end Python workflow.
+
+We will move beyond the basics of syntax to focus on a modern stack that prioritizes readability and performance. Using Positron as our development environment, we’ll navigate a complete project lifecycle. The workshop covers:
+
+- Data Manipulation: performant data wrangling using Polars.
+- Visualization: implementing the Grammar of Graphics in Python with Plotnine.
+- Reporting: creating presentation-ready tables with Great Tables.
+- Modeling: building machine learning models using Scikit-Learn.
+
+The workshop is structured around a single case study. You’ll work through a series of exercises designed to help you get familiar with these tools. By the end of the day, you’ll have a good idea of how to translate your data science skills into a Python context and a repository of code examples to apply to future projects. 
+
+This workshop is a great fit for those getting started with data science as well as R users who want to get their feet wet with Python for doing data science.
 
 ## Setup
 
-ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN POSIT CLOUD ACCOUNT, ETC.
+ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET A POSIT CLOUD ACCOUNT, ETC.
 
 ## Schedule
 
@@ -42,7 +54,13 @@ ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRI
 
 ## Instructor(s)
 
-ADD INSTRUCTOR(S) INFO.
+### Jeroen Janssens
+
+Jeroen Janssens, PhD, is Head of Developer Relations at Posit, PBC. His expertise lies in visualizing data, implementing machine learning models, and building solutions using Python, R, JavaScript, and Bash. He’s passionate about open source and sharing knowledge. He’s the author of Python Polars: The Definitive Guide (O’Reilly, 2025) and Data Science at the Command Line (O’Reilly, 2021). Jeroen holds a PhD in machine learning from Tilburg University and an MSc in artificial intelligence from Maastricht University. He lives with his wife and two kids in Rotterdam, the Netherlands.
+
+### Richard Iannone
+
+ADD BIO.
 
 -----
 
