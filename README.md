@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Modern Data Science in Python
 ================
 
 ### posit::conf(2026)
