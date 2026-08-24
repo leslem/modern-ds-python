@@ -86,7 +86,7 @@ Jeroen Janssens, PhD, is Head of Developer Relations at Posit, PBC. His expertis
 
 ### Richard Iannone
 
-ADD BIO.
+Richard Iannone is a software engineer at Posit, PBC. He focuses on building open-source tools that help people work more effectively with data. In R, he works on several packages including gt, pointblank, and blastula. In Python, his focus is on Great Tables (a port of gt) and Great Docs (documentation-site generator for Python libraries).
 
 -----
 
