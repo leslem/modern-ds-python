@@ -38,7 +38,33 @@ This workshop is a great fit for those getting started with data science as well
 
 ## Setup
 
-ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON POSIT COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET A POSIT CLOUD ACCOUNT, ETC.
+Please complete these steps **before** the workshop.
+
+### Step 1: Install Positron
+
+Download and install the Positron IDE from <https://positron.posit.co>.
+
+### Step 2: Download workshop materials
+
+Clone this repository (or download and extract the ZIP file):
+
+```bash
+git clone https://github.com/posit-conf-2026/modern-ds-python.git
+```
+
+### Step 3: Install Python packages
+
+Open the `modern-ds-python` folder in Positron and run the following command in the terminal:
+
+```bash
+uv sync
+```
+
+This will create a virtual environment and install all required packages (Plotnine, Polars, Great Tables, and scikit-learn).
+
+### Step 4: Verify your setup
+
+Open `00_start.ipynb` and run all cells. If everything executes without errors, you're good to go!
 
 ## Schedule
 
