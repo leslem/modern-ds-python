@@ -84,7 +84,7 @@ Open `00_start.ipynb` and run all cells. If everything executes without errors, 
 - [Polars Cheatsheet](https://opensource.posit.co/resources/cheatsheets/polars/)
 - [Plotnine Cheatsheet](https://opensource.posit.co/resources/cheatsheets/plotnine/)
 - [Great Tables Cheatsheet](https://opensource.posit.co/resources/cheatsheets/great-tables/)
-
+- [Heuristics for Translating Ggplot2 Code to Plotnine Code](https://jeroenjanssens.com/heuristics/)
 
 ## Instructors
 
