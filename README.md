@@ -2,11 +2,11 @@
 
 ### posit::conf(2026)
 
-by Jeroen Janssens and Richard Iannone
+by Jeroen Janssens, Richard Iannone, and Isabel Zimmerman
 
-:spiral_calendar: September 14, 2026  
-:alarm_clock:     09:00 - 17:00  
-:hotel:           ROOM TBD  
+:spiral_calendar: September 14, 2026
+:alarm_clock:     09:00 - 17:00
+:hotel:           4th floor, Lanier K
 :writing_hand:    [pos.it/conf](http://pos.it/conf)
 
 ## Contents
@@ -27,7 +27,6 @@ We will move beyond the basics of syntax to focus on a modern stack that priorit
 - Data Manipulation: performant data wrangling using Polars.
 - Visualization: implementing the Grammar of Graphics in Python with Plotnine.
 - Reporting: creating presentation-ready tables with Great Tables.
-- Modeling: building machine learning models using Scikit-Learn.
 
 The workshop is structured around a single case study. You’ll work through a series of exercises designed to help you get familiar with these tools. By the end of the day, you’ll have a good idea of how to translate your data science skills into a Python context and a repository of code examples to apply to future projects. 
 
@@ -71,7 +70,7 @@ Open the `modern-ds-python` folder in Positron and run the following command in 
 uv sync
 ```
 
-This will create a virtual environment and install all required packages (Plotnine, Polars, Great Tables, and scikit-learn).
+This will create a virtual environment and install all required packages (Plotnine, Polars, and Great Tables).
 
 ### Step 4: Verify your setup
 
@@ -95,6 +94,10 @@ Jeroen Janssens, PhD, is Head of Developer Relations at Posit, PBC. His expertis
 ### Richard Iannone
 
 Richard Iannone is a software engineer at Posit, PBC. He focuses on building open-source tools that help people work more effectively with data. In R, he works on several packages including gt, pointblank, and blastula. In Python, his focus is on Great Tables (a port of gt) and Great Docs (documentation-site generator for Python libraries).
+
+### Isabel Zimmerman
+
+Building the Positron IDE and various Python packages.
 
 -----
 

@@ -10,4 +10,6 @@ dependencies = [
     "great-tables",
     "pyarrow",
     "scikit-learn",
+    "xlsxwriter",
+    "lxml"
 ]
